@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "name": "VolksWagen polo Sedan",
+      "year": 2012,
+      "id": 1
+    },
+    {
+      "name": "Lamborgini",
+      "year": 2021,
+      "id": 2
+    },
+    {
+      "name": "Mersedes",
+      "year": 2022,
+      "id": 3
+    },
+    {
+      "name": "Hunday Sonata",
+      "year": 2021,
+      "id": 4
+    }
+  ]
+}
