@@ -1,4 +1,4 @@
-# vue-project
+# vue-project at Vue-resourse
 
 > A Vue.js project
 
@@ -10,6 +10,9 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+
+# serve with json BD at localhost:3000
+npm run server
 
 # build for production with minification
 npm run build
